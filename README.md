@@ -1,4 +1,4 @@
-# SaicharanAilenani.github.io
+# HymaNavuduri.github.io
 
 This is my personal website built using Bootstrap and some custom CSS.
 
@@ -33,4 +33,4 @@ This is my personal website built using Bootstrap and some custom CSS.
 
 ## Contact
 
-Email: saicharanailenani@gmail.com
+Email: nhyma2000@gmail.com
